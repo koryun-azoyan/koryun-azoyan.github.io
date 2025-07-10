@@ -158,6 +158,9 @@ html { font-family: var(--ff-poppins); }
 body { background: #afedd1; }
 
 
+strong {
+  font-weight: bold;
+}
 
 
 
